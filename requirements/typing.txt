@@ -11,7 +11,7 @@ mypy-extensions==0.4.3
     # via mypy
 tomli==2.0.1
     # via mypy
-types-contextvars==2.4.5
+types-contextvars==2.4.6
     # via -r requirements/typing.in
 types-dataclasses==0.6.5
     # via -r requirements/typing.in
